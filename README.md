@@ -2,7 +2,7 @@
 
 _Funciones de arrays_
 
-## El lenguaje PHP dispone de una gran cantidad de funciones de tratamiento de arrays, puedes consultarlas [https://www.php.net/manual/es/ref.array.php](aquí). 🚀
+## El lenguaje PHP dispone de una gran cantidad de funciones de tratamiento de arrays, puedes consultarlas [aquí](https://www.php.net/manual/es/ref.array.php). 🚀
 
 ## No tiene demasiado sentido enumerar todas las funciones una a una, en lugar de eso haremos algunos ejercicios.
 
